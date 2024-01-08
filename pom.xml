@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>actuator</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <parent>
         <artifactId>spring-boot-starter-parent</artifactId>
